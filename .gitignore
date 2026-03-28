@@ -1,0 +1,10 @@
+data/*
+!data/.gitkeep
+
+output/*
+!output/.gitkeep
+
+__pycache__/
+*.csv
+*.wav
+*.mp3
